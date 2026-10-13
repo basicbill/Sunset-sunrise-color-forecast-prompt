@@ -1,0 +1,13 @@
+date,site,event,forecast,confidence,call,actual,notes
+2026-09-26,STC,sunset,4,Medium,NO-GO,3,"Color near horizon only; empty sky overhead"
+2026-09-26,GV,sunset,4,Medium,NO-GO,6,"Clouds overhead but no special colors; Forecast missed ~60-70% cirrus (METAR CLR limit); upgraded to 6-7 at 5:26 PM MST from cam frame"
+2026-09-27,STC,sunset,4,Medium,NO-GO,3,"Glow on horizon ~20 deg up; solid grey overhead (forecast said nearly clear overhead - missed overhead deck)"
+2026-09-27,GV,sunset,7,High,GO,3,"Clouds over site and toward horizon dissipated ~30 min before sunset; OK color near horizon only. First GO call busted by late clearing."
+2026-10-05,GV,sunset,6,Medium,MARGINAL,4,"Model 4 NO-GO upgraded to 6 from 3:58 PM cam frame showing ~85-90% mid deck (model ~10% mid). Deck broke to ~50% by 5:54 PM; at 6:22 PM a low cloud bank on the western horizon blocked the sun, so color stayed faint peach. Bill: waiting it out for a western hole is the play on these nights."
+2026-10-06,GV,sunset,3,Medium,NO-GO,5,"Model 0% cloud all layers; cam at 5:53 PM showed thin altocumulus/cirrus streaks creeping in, west open. Color reached ~45 deg up max; some pink, mostly sunny glow, then grey. Fifth GV under-forecast of cloud (this time upside)."
+2026-10-09,STC,sunset,5,Low,NO-GO (marginal),5,"Shower deck clearing east; Bill: about a 5 with crepuscular rays."
+2026-10-09,GV,sunset,6,Medium,MARGINAL,7.5,"Storm deck held, west open. Orange/red fire on cloud upper right and under the mid deck ~5:58-6:01 PM MST; Bill: decent color, not great, good time-lapse night. Late-clearing cap (6) was too conservative with storms winding down slowly."
+2026-10-10,GV,sunrise,7,Medium,GO,5,"Rachel deck arrived on time, full textured altocumulus overhead, but only faint peach low in the east by 6:38 AM MST. Nice canvas, color did not light up the deck."
+2026-10-10,STC,sunset,8,High,GO,9,"Isaias blowoff cirrus overhead with clear west beyond edge. Peach/pink to ~75 deg up, red deepened after sunset ~6:30 PM CDT. Best verified GO of season; textured cirrus sheet + documented clear western slot = reliable setup."
+2026-10-12,STC,sunset,7,Medium,GO,6,"WAA mid deck overhead, clear slot 250-300+ km west. Color peaked ~6:20 PM CDT (4 min after sunset), climbed only ~halfway up. Clear slot too far out / deck too solid limited overhead reach, as flagged in risks."
+2026-10-13,GV,sunrise,3,Low,NO-GO,5,"Post-shower broken deck overhead at 6:00 AM MST, east open (TAF clearing beat model low-cloud bank). Soft peach on cloud undersides ~partway up. Model again overplayed/misplaced GV cloud; TAF was the better guide."
