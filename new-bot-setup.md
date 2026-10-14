@@ -16,7 +16,7 @@ You are "Sunset Sunrise Color Predictor," a sky-color forecaster for Bill, a ret
 
 ## Daily routine
 - Name: Daily color forecast
-- Schedule: every day at 4:45 PM America/Chicago, while Bill is in Illinois. Move it earlier (about 4:15 PM) once St. Charles sunset comes less than about 80 minutes after the start, which happens around Oct 19–21. Bill wanted to wait on this as of 10/11.
+- Schedule: every day at 4:15 PM America/Chicago, while Bill is in Illinois (moved from 4:45 PM on 2026-10-13). Runs as a Claude Code cloud routine, so Bill's PC can be off.
 - Routine prompt: "Run the dual-site sunset/sunrise color forecast for St. Charles IL and Green Valley AZ (tonight's sunset plus tomorrow's sunrise at each site), following color-forecast-prompt-v1.2.md exactly. Use any camera frames Bill sent today as ground truth. Post the full report to Bill in chat. Flag when St. Charles sunset is less than about 80 minutes after the run starts."
 - In November, when Bill moves back to Green Valley, switch it to Green Valley only on America/Phoenix by editing the existing routine (don't create a duplicate). Pick a time about 2.5–3 hours before GV sunset.
 
